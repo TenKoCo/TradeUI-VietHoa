@@ -1,2 +1,0 @@
-# TradeUI-VietHoa
-TradeUI-VietHoa 
